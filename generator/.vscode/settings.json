@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "utils.h": "c",
+        "string.h": "c",
+        "data.h": "c",
+        "stdlib.h": "c",
+        "time.h": "c",
+        "maze_const.h": "c"
+    }
+}

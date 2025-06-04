@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "stat.h": "c",
+        "queue": "c",
+        "stack": "c",
+        "maze_const.h": "c",
+        "data.h": "c"
+    }
+}
